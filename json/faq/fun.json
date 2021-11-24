@@ -1,0 +1,40 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "General",
+      "color": null,
+      "fields": [
+        {
+          "name": "Q: When moon?",
+          "value": "A: Yes :ninja:"
+        },
+        {
+          "name": "Q: When lambo?",
+          "value": "A: Yes :ninja:"
+        },
+        {
+          "name": "Q: When marketing?",
+          "value": "A: Yes :ninja:"
+        },
+        {
+          "name": "Q: When pump?",
+          "value": "A: Yes :ninja:"
+        },
+        {
+          "name": "Q: Why dip?",
+          "value": "A: Yes :ninja:"
+        },
+        {
+          "name": "Q: When 1 billion market cap?",
+          "value": "A: Yes :ninja:"
+        }
+      ],
+      "footer": {
+        "text": "Kishimoto",
+        "icon_url": "https://kishimotoinu.com/kishimoto.png"
+      },
+      "timestamp": "2021-11-23T23:00:00.000Z"
+    }
+  ]
+}

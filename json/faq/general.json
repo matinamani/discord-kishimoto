@@ -1,0 +1,52 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "FAQ (Frequently asked questions)",
+      "color": null,
+      "fields": [
+        {
+          "name": "Q: What is Kishimoto Inu?",
+          "value": "A: Anime&Inu based ERC20 Token on the Ethereum Blockchain ([link](https://etherscan.io/token/0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65 \"https://etherscan.io/token/0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65\")). The **Whitepaper** explains the value of the project which can be found [here](https://kishimotoinu.com/KishimotoInuwhitepaper.pdf \"https://kishimotoinu.com/KishimotoInuwhitepaper.pdf\")"
+        },
+        {
+          "name": "Q: When did Kishimoto Inu launch?",
+          "value": "A: October 18th, 2021 (Stealth launch)"
+        },
+        {
+          "name": "Q: Liquidity locked?",
+          "value": "A: Yes, until October 26th, 2023 ([link](https://app.unicrypt.network/amm/uni-v2/pair/0xdF42388059692150d0A9De836E4171c7B9c09CBf \"https://app.unicrypt.network/amm/uni-v2/pair/0xdF42388059692150d0A9De836E4171c7B9c09CBf\"))"
+        },
+        {
+          "name": "Q: Is the Smart Contract audited?",
+          "value": "A: Yes ([see](https://github.com/TechRate/Smart-Contract-Audits/blob/main/October/Kishimoto%20Inu.pdf \"https://github.com/TechRate/Smart-Contract-Audits/blob/main/October/Kishimoto%20Inu.pdf\"))"
+        },
+        {
+          "name": "Q: I have a proposal who can I contact?",
+          "value": "A: proposal@kishimotoinu.net"
+        },
+        {
+          "name": "Q: What is the address of the contract?",
+          "value": "A: We are on the ETH and BSC chain:\n- ETH: 0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65\n- BSC: 0xCAb599D699f818e6ceFd07cF54f448DAB9367B05"
+        },
+        {
+          "name": "Q: Why are the token prices different on centralized exchanges?",
+          "value": "A: Centralized exchanges (*CEXs*) have there own order book that must be reconciled between the buys and sells for that particular asset and for each pairing"
+        },
+        {
+          "name": "Q: When purchasing Kishimoto Inu tokens on a DEX, what should my slippage tolerance be set to?",
+          "value": "A: Slippage should be 12-15% for further questions go to <#900975814336712714> community member will help :ninja:"
+        },
+        {
+          "name": "Q: Where can I buy Kishimoto Inu?",
+          "value": "A: On our own DEX [KishiSwap](https://kishiswap.com/swap?outputCurrency=0xf5b1Fd29d23e98Db2D9EBb8435E1082e3B38FB65 \"Kishiswap\") or on any  DEXs and CEXs which are listed below.\n\n*Decentralized Exchanges (DEXs)*:\n-\t[Uniswap](https://app.uniswap.org/#/swap?exactField=input&exactAmount=10&outputCurrency=0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65 \"Uniswap\")\n-\t[ShibaSwap](https://shibaswap.com/#/swap?outputCurrency=0xf5b1Fd29d23e98Db2D9EBb8435E1082e3B38FB65 \"Shibaswap\")\n-\t[FEGex](https://fegex.com/ \"FEGex\")\n\n*Centralized Exchanges:*\n-\t[Hotbit](https://www.hotbit.io/exchange?symbol=KISHIMOTO_nUSD \"Hotbit\")\n-\t[Lbank](https://www.lbank.info/exchange/kishimoto/usdt \"Lbank\")\n-\t[BKEX](https://www.bkex.com/trade/KISHIMOTO_USDT \"Bkex\")\n-\t[ZT](https://www.ztb.im/exchange?coin=KISHIMOTO_USDT \"Zt\")\n-\t[XT](https://www.xt.com/tradePro/kishimoto_usdt \"Xt\")\n-\t[WhiteBit](https://whitebit.com/trade/KISHI_DECL \"WhiteBit\")"
+        }
+      ],
+      "footer": {
+        "text": "Kishimoto",
+        "icon_url": "https://kishimotoinu.com/kishimoto.png"
+      },
+      "timestamp": "2021-11-23T23:00:00.000Z"
+    }
+  ]
+}

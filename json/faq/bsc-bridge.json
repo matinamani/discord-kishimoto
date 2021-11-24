@@ -1,0 +1,60 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "BSC Bridge",
+      "color": null,
+      "fields": [
+        {
+          "name": "Q: Why did we opt to do a bridge to the binance smart chain (BSC)?",
+          "value": "A: The Binance Smart Chain gives holders another option to trade with low gas fees. It is easier for those who wish to purchase low amounts of Kishimoto without the high fees you would experienced using ETH. \nThis makes us more accessible to a wider market where buying with BNB is more popular. Think of the BSC as another exchange but decentralized. \nEventually the price arbitrage will happen between the two chains and will average out."
+        },
+        {
+          "name": "Q: Where can we buy the BSC version of Kishimoto?",
+          "value": "A: You must use the following contract address:\n\nhttps://pancakeswap.finance/swap?outputCurrency=0xcab599d699f818e6cefd07cf54f448dab9367b05\n\nNo other contract address on the BSC is associated with us and if you buy any fake Kishimoto tokens then we will not be liable."
+        },
+        {
+          "name": "Q: How do I swap my Kishimoto ETH tokens to Kishimoto BSC tokens?",
+          "value": "A: To use the bridge, you must connect your wallet to the following website: https://the-crossing.io\n\nPlease note coinbase wallet will not work on the bridge as the wallet itself does not accept BEP 20 tokens. You must import your wallet to Metamask or Trust wallet using your 12 seed phrase.\n\nYou will need to enter the amount of tokens you wish to swap between the chains and the first swap will incur an approval fee.\n\nOnce the approval fee has been paid for, you must now refresh the page on the website and proceed to do the swap again. This time you will incur an Ethereum transaction fee which is similar to selling/transferring. You will also incur a 0.3% taxation.\n\nOnce the transaction has been submitted, it will take a few minutes for the swap to happen so please do not panic if you cannot see the tokens on BSC scan just yet."
+        },
+        {
+          "name": "Q: I have now swapped my Kishimoto ETH to Kishimoto BSC via the bridge however i cannot see the tokens on BSC scan?",
+          "value": "A: It takes up to 10-30 mins for the tokens to show up on BSC scan. Any issues, please contact the Catoshi team via their telegram: https://t.me/originalcatoshi. They own the bridge and will be able to help."
+        },
+        {
+          "name": "Q: Why does the supply on the BSC side differ? I thought we were using the same liquidity and supply where the tokens were ETH wrapped?",
+          "value": "A: Whilst the pool of tokens remain the same, we had to add liquidity to trading on pancakeswap. The supply remains the same however the liquidity on pancakeswap is now locked below."
+        },
+        {
+          "name": "Q: Why does it show the liquidity is unlocked on poocoin for the BSC Kishimoto token?",
+          "value": "A: Liquidity has been locked for 2 years - https://app.unicrypt.network/amm/pancake-v2/pair/0x37dEc385E8ee34644f80dd8e662Af8B9eF92EED9"
+        },
+        {
+          "name": "Q: Why does the price differ between the price on uniswap and to other exchanges including BSC?",
+          "value": "A: As there is different liquidity between the two chains, the price will slightly differ. Price arbitrage will happen where people will utilise the bridge to sell on BSC to lower the price and rebuy on ETH to increase the price. Eventually there will be a similar price point between the two. Prices on exchanges will differ as trading volume and liquidity all differs."
+        },
+        {
+          "name": "Q: Will the holder count on the BSC side be added to the holder count shown on etherscan?",
+          "value": "A: Each blockchain will have their own holder count. \n\nYou can view the amount of holders on the BSC chain here:\nhttps://bscscan.com/token/0xcab599d699f818e6cefd07cf54f448dab9367b05\n\nAnd view the amount of holders on the ETH chain here:\nhttps://etherscan.io/token/0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65\n\nIf you add the two holder counts together, you will have an overall amount of holders across both chains."
+        },
+        {
+          "name": "Q: How do i view my BSC Kishimoto tokens on my wallet?",
+          "value": "A: You will need to add the token as a custom token using the below contract address:\n\nContract: 0xcab599d699f818e6cefd07cf54f448dab9367b05 Symbol: KISHIMOTO Decimal: 9"
+        },
+        {
+          "name": "Q: I heard farming is available on the BSC chain?",
+          "value": "A: Correct you can farm on https://dapps.padswap.exchange/lpfarms/"
+        },
+        {
+          "name": "Q: Will i be taxed for transferring tokens between wallets?",
+          "value": "A: Yes a 10% taxation will apply. If you were to bridge your ETH tokens to BSC then you will be subject to a 0.3 taxation plus ETH gas fees."
+        }
+      ],
+      "footer": {
+        "text": "Kishimoto",
+        "icon_url": "https://kishimotoinu.com/kishimoto.png"
+      },
+      "timestamp": "2021-11-23T23:00:00.000Z"
+    }
+  ]
+}

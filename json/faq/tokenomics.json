@@ -1,0 +1,32 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Tokenomics",
+      "color": null,
+      "fields": [
+        {
+          "name": "Q: Why did I receive less tokens than I bought?",
+          "value": "A: Each buy/sell is taxed by 10%.\n- 5% Marketing\n- 3% Liquidity to prevent whale manipulation\n- 2% Rewards (reflections) are distributed to every hodler in proportion to the wallets amount"
+        },
+        {
+          "name": "Q: How many tokens are in circulation and how many are already burnt?",
+          "value": "A: \n-\tTotal amount of Kishimoto Inu tokens: 100.000.000.000.000.000\n-\t**50%** initially burnt. Tokens are burnt on every transaction because the burn wallet is also a hodler which receives reflections ([link](https://etherscan.io/token/0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65?a=0x000000000000000000000000000000000000dead \"https://etherscan.io/token/0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65?a=0x000000000000000000000000000000000000dead\"))\n-\t**~48%** are in circulation currently it will decrease slowly"
+        },
+        {
+          "name": "Q: Why can’t I see my token balance increase in my wallet? Am I not receiving reflections?",
+          "value": "A: CEX usually dont provide reflection to their customers but there are exceptions. \nIf you want to know if your wallet receives reflections copy the link below and fill in your wallet address.\nhttps://etherscan.io/token/0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65?a=YOUR_WALLET_ADDRESS"
+        },
+        {
+          "name": "Q: Do ETH holders get reflections from all BSC trades?",
+          "value": "A: No they do not. You only get reflections on the chain you are holding your tokens on. The ETH dead wallet benefits from the majority of the reflections as it holds the 52% of the supply and therefore as tokens get taken out of circulation, the price will inevitably move up. Holders on BSC gets more reflections as there is no dead wallet."
+        }
+      ],
+      "footer": {
+        "text": "Kishimoto",
+        "icon_url": "https://kishimotoinu.com/kishimoto.png"
+      },
+      "timestamp": "2021-11-23T23:00:00.000Z"
+    }
+  ]
+}
