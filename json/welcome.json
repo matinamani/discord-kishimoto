@@ -1,0 +1,16 @@
+{
+  "description": "We are happy to see you join **{server}**!\nYou are the **{ord: {server(humans)}}** :ninja: of the discord community.\nIf you have any questions, please refer to <#908793132831883295>.",
+  "thumbnail": {
+    "url": "{user(avatar)}"
+  },
+  "author": {
+    "name": "Welcome, {user}! ",
+    "url": "",
+    "icon_url": ""
+  },
+  "color": 0,
+  "footer": {
+    "icon_url": "https://kishimotoinu.com/kishimoto.png",
+    "text": "Kishimoto"
+  }
+}
