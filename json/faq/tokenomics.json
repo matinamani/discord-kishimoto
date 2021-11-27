@@ -3,7 +3,7 @@
   "embeds": [
     {
       "title": "Tokenomics",
-      "color": null,
+      "color": 0,
       "fields": [
         {
           "name": "Q: Why did I receive less tokens than I bought?",
@@ -26,7 +26,7 @@
         "text": "Kishimoto",
         "icon_url": "https://kishimotoinu.com/kishimoto.png"
       },
-      "timestamp": "2021-11-23T23:00:00.000Z"
+      "timestamp": "2021-11-26T23:00:00.000Z"
     }
   ]
 }

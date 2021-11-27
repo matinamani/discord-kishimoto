@@ -3,7 +3,7 @@
   "embeds": [
     {
       "title": "BSC Bridge",
-      "color": null,
+      "color": 0,
       "fields": [
         {
           "name": "Q: Why did we opt to do a bridge to the binance smart chain (BSC)?",

@@ -3,7 +3,7 @@
   "embeds": [
     {
       "title": "General",
-      "color": null,
+      "color": 0,
       "fields": [
         {
           "name": "Q: When moon?",
@@ -34,7 +34,7 @@
         "text": "Kishimoto",
         "icon_url": "https://kishimotoinu.com/kishimoto.png"
       },
-      "timestamp": "2021-11-23T23:00:00.000Z"
+      "timestamp": "2021-11-26T23:00:00.000Z"
     }
   ]
 }

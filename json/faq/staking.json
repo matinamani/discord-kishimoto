@@ -3,7 +3,7 @@
   "embeds": [
     {
       "title": "Staking",
-      "color": null,
+      "color": 0,
       "fields": [
         {
           "name": "Q: How do I stake?",
@@ -43,7 +43,7 @@
         },
         {
           "name": "Q: The website does not allow me to stake what can I do?",
-          "value": "A: There can be several issues. e.g. If you use MetaMask and have connected your Hardware wallet (TREZOR) you will have to downgrade to MetaMask version 9.8.6 because of an issue with newer version of MetaMask. \nWrite your issue in <#900793467393961984> - the community will help you."
+          "value": "A: There can be several issues. e.g. If you use MetaMask and have connected your Hardware wallet (TREZOR) you will have to downgrade to [MetaMask version 9.8.4](https://github.com/MetaMask/metamask-extension/releases/tag/v9.8.4) because of an issue with newer version of MetaMask. \nWrite your issue in <#900793467393961984> - the community will help you."
         }
       ],
       "footer": {
