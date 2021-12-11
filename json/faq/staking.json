@@ -7,19 +7,11 @@
       "fields": [
         {
           "name": "Q: How do I stake?",
-          "value": "A: https://www.youtube.com/watch?v=0MCttYLuFAg"
+          "value": "A: Go to https://stake.kishimotoinu.com\nThe how to stake video can be found here: https://www.reddit.com/r/KishimotoInu/comments/rag04j/saitama_staking_rewards_now_available/"
         },
         {
           "name": "Q: How long can I stake for?",
-          "value": "A. You can stake and unstake at anytime. You will only receive rewards for the period you locked your tokens for."
-        },
-        {
-          "name": "Q: How many Kishimoto are staked on ETH?",
-          "value": "A: As of 23 November 2021  around 6 quadrillion (12 % of the circulating supply). See the current amount here: https://etherscan.io/token/0xf5bfBCd48E39cbf01Ee18A55D34E4ec42A17F483?a=0xE99816Fe36F6B5E78989aD32a19DDAbe999aC6cE"
-        },
-        {
-          "name": "Q: How do i unwrap my tokens?",
-          "value": "A: Using the wrapping website: https://wrap.kishimotoinu.com. Enter the amount you wish to unwrap and click the button to unwrap your tokens. A network fee will apply."
+          "value": "A: You can stake and unstake at anytime. You will only receive rewards for the period you locked your tokens for."
         },
         {
           "name": "Q: Why is staking beneficial?",
@@ -31,7 +23,7 @@
         },
         {
           "name": "Q: Where did the team get the tokens to use for staking rewards?",
-          "value": "A: Our 453 ETH buy back tokens are being used to reward you all for staking."
+          "value": "A: 520 ETH (currently) buy back tokens are being used to reward you all for staking."
         },
         {
           "name": "Q: Can we stake if we hold BSC Kishimoto?",
@@ -40,17 +32,13 @@
         {
           "name": "Q: I hold my tokens on an exchange, how can i stake?",
           "value": "A: You will need to withdraw from the exchange into an ethereum based wallet like Metamask or Trust wallet to be able to stake."
-        },
-        {
-          "name": "Q: The website does not allow me to stake what can I do?",
-          "value": "A: There can be several issues. e.g. If you use MetaMask and have connected your Hardware wallet (TREZOR) you will have to downgrade to [MetaMask version 9.8.4](https://github.com/MetaMask/metamask-extension/releases/tag/v9.8.4) because of an issue with newer version of MetaMask. \nWrite your issue in <#900793467393961984> - the community will help you."
         }
       ],
       "footer": {
         "text": "Kishimoto",
         "icon_url": "https://kishimotoinu.com/kishimoto.png"
       },
-      "timestamp": "2021-11-23T23:00:00.000Z"
+      "timestamp": "2021-12-10T23:00:00.000Z"
     }
   ]
 }
