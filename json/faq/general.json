@@ -39,7 +39,7 @@
         },
         {
           "name": "Q: Where can I buy Kishimoto Inu?",
-          "value": "A: On our own DEX [KishiSwap](https://kishiswap.com/swap?outputCurrency=0xf5b1Fd29d23e98Db2D9EBb8435E1082e3B38FB65 \"Kishiswap\") or on any  DEXs and CEXs which are listed below.\n\n*Decentralized Exchanges (DEXs)*:\n- [Uniswap](https://app.uniswap.org/#/swap?exactField=input&exactAmount=10&outputCurrency=0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65 \"Uniswap\")\n- [Pancakeswap](https://pancakeswap.finance/swap?outputCurrency=0xcab599d699f818e6cefd07cf54f448dab9367b05 \"Pancakeswap\")\n- [ShibaSwap](https://shibaswap.com/#/swap?outputCurrency=0xf5b1Fd29d23e98Db2D9EBb8435E1082e3B38FB65 \"Shibaswap\")\n- [FEGex](https://fegex.com/ \"FEGex\")\n\n*Centralized Exchanges:*\n-\t[Hotbit](https://www.hotbit.io/exchange?symbol=KISHIMOTO_nUSD)\n-\t[Lbank](https://www.lbank.info/exchange/kishimoto/usdt)\n-\t[BKEX](https://www.bkex.com/trade/KISHIMOTO_USDT)\n-\t[ZT](https://www.ztb.im/exchange?coin=KISHIMOTO_USDT)\n-\t[XT](https://www.xt.com/tradePro/kishimoto_usdt)\n-\t[WhiteBit](https://whitebit.com/trade/KISHI_DECL )"
+          "value": "A: On our own DEX [KishiSwap](https://kishiswap.com/swap?outputCurrency=0xf5b1Fd29d23e98Db2D9EBb8435E1082e3B38FB65 \"Kishiswap\") or on any  DEXs and CEXs which are listed below.\n\n*Decentralized Exchanges (DEXs)*:\n- [Uniswap](https://app.uniswap.org/#/swap?exactField=input&exactAmount=10&outputCurrency=0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65 \"Uniswap\")\n- [Pancakeswap](https://pancakeswap.finance/swap?outputCurrency=0xcab599d699f818e6cefd07cf54f448dab9367b05 \"Pancakeswap\")\n- [ShibaSwap](https://shibaswap.com/#/swap?outputCurrency=0xf5b1Fd29d23e98Db2D9EBb8435E1082e3B38FB65 \"Shibaswap\")\n- [FEGex](https://fegex.com/ \"FEGex\")\n\n*Centralized Exchanges:*\n-\t[Hotbit](https://www.hotbit.io/exchange?symbol=KISHIMOTO_nUSD)\n-\t[Lbank](https://www.lbank.info/exchange/kishimoto/usdt)\n-\t[BKEX](https://www.bkex.com/trade/KISHIMOTO_USDT)\n-\t[ZT](https://www.ztb.im/exchange?coin=KISHIMOTO_USDT)\n-\t[XT](https://www.xt.com/tradePro/kishimoto_usdt)"
         },
         {
           "name": "Q: Won't Kishimoto Inu face copyright issues?",
@@ -54,7 +54,7 @@
         "text": "Kishimoto",
         "icon_url": "https://kishimotoinu.com/kishimoto.png"
       },
-      "timestamp": "2021-11-26T23:00:00.000Z"
+      "timestamp": "2021-12-17T23:00:00.000Z"
     }
   ]
 }
