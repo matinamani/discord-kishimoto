@@ -1,0 +1,1 @@
+A: Katsumi is a special Kishimoto Utility token that will help burn Kishimoto tokens, Give to charities and reward holders with voting power for specific causes and initiatives. Katsumi token is available on ETH([link](https://etherscan.io/token/0x5e4efb364071c64ee3641fe1e68cb5d2d5558709))

@@ -6,8 +6,12 @@
       "color": 0,
       "fields": [
         {
-          "name": "Q: What is Kishimoto Inu?",
-          "value": "A: Anime&Inu based ERC20 Token on the Ethereum Blockchain ([link](https://etherscan.io/token/0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65 \"https://etherscan.io/token/0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65\")). The **Whitepaper** explains the value of the project which can be found [here](https://kishimotoinu.com/KishimotoInuwhitepaper.pdf \"https://kishimotoinu.com/KishimotoInuwhitepaper.pdf\")"
+          "name": "Q: What is Kishimoto Token?",
+          "value": "A: Anime based Token available to trade on 4 chains including ETH([link](https://etherscan.io/token/0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65 \"https://etherscan.io/token/0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65\")), BSC([link](https://bscscan.com/token/0xcab599d699f818e6cefd07cf54f448dab9367b05)), FTM([link](https://ftmscan.com/token/0x8b6663725d7e7368b01eefddc16be085e492498e)) and AVAX([link](https://snowtrace.io/token/0x8b6663725d7e7368b01eefddc16be085e492498e)). The **Whitepaper** explains the value of the project which can be found [here](https://kishimototoken.com/KishimotoInuwhitepaper.pdf \"https://kishimototoken.com/KishimotoInuwhitepaper.pdf\")"
+        },
+        {
+          "name": "Q: What is Katsumi Token?",
+          "value": "A: Katsumi is a special Kishimoto Utility token that will help burn Kishimoto tokens, Give to charities and reward holders with voting power for specific causes and initiatives. Katsumi token is available on ETH([link](https://etherscan.io/token/0x5e4efb364071c64ee3641fe1e68cb5d2d5558709))"
         },
         {
           "name": "Q: When did Kishimoto Inu launch?",
